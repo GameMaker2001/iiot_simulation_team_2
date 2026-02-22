@@ -1,0 +1,1 @@
+This project is a simulation of an Industrial Internet of Things (IIoT) network. We built a system that generates fake sensor data (temperature and humidity) and sends it across different communication protocols like MQTT, CoAP, and OPC UA. The goal was to see how these industry standards handle data and to visualize that data in real-time using Python.
